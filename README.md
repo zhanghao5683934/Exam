@@ -1,6 +1,15 @@
-# 在线考试答题排行榜小程序
 
-#### 介绍
+<h1 align="center">在线考试答题系统</h1>
+
+<h5 align="center"></h5>
+<div align="center">
+
+[![star](https://gitee.com/howcode/has-chat/badge/star.svg)](https://gitee.com/zh5683934/kaoshi-dati-shuati)  [![fork](https://gitee.com/howcode/has-chat/badge/fork.svg)](https://gitee.com/zh5683934/kaoshi-dati-shuati)  [![](https://img.shields.io/badge/QQ群-995910672-red)](https://qm.qq.com/cgi-bin/qm/qr?k=JShAyXeoKqg2lWFEUSElxELImhjeMG4y&jump_from=webapi)
+
+------------------------------------------------------------------------
+</div>
+
+#### 项目介绍
 本系统可以应用于考试，答题，刷题，知识竞赛，活动答题，题库等场景，满足各种答题刷题的使用！
 
 #### 软件架构
@@ -9,15 +18,23 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+##### 1. 安装Hbuilder编辑工具
 
-#### 使用说明
+uni-app官方推荐的轻量级代码IDE工具, 下载地址: https://www.dcloud.io/hbuilderx.html，具体安装流程官方网站上写的很详细, 用户可以选择对应您本地系统环境的版本下载.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+##### 2. 导入项目
+将代码
+
+##### 3.  xxxx
+
+#### 主要特性
+
+   1.一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序
+   2.依托Dcloud公司强大的生态圈, 开发者无论是拿来直接用还是自己修改后使用都十分的方便, 网上资料/文档齐全,无需担心bug解决不了.
+   3.项目占用空间小,全部加起来不到2MB,占用开发者磁盘空间极少.
+   4.代码中做了多端适配, 小程序端、H5端、安卓、IOS端样式都做到了样式兼容.
+   7.vue开发, 保证了样式美观的同时, 规避了nvue样式的兼容问题.
+   8.配置方便, 无需安装, 下载之后使用Hbuilder编辑器即可运行查看. 
 
 #### 参与贡献
 
@@ -26,12 +43,8 @@
 3.  提交代码
 4.  新建 Pull Request
 
+#### 技术交流
 
-#### 特技
+##### 官方QQ技术交流群（可获取sql脚本和技术支持）
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+QQ群：995910672（万岳科技开源讨论10群）
