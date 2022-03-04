@@ -19,11 +19,6 @@
 ![输入图片说明](wanyue-kaoshi/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220303152305.png)
 ![输入图片说明](wanyue-kaoshi/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220303152331.png)
 
-
-#### 软件架构
-软件架构说明
-
-
 #### 安装教程
 
 ##### 1. 安装Hbuilder编辑工具
