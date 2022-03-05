@@ -1,0 +1,1 @@
+<view><view class="success-wrap"><image class="success-icon" src="../../static/images/dh-success.png" mode="aspectFit"></image><view class="font_w success-txt">兑换成功!</view><view class="trade-no-title font_28">订单编号</view></view><view class="out-trade-no">{{trade_no}}</view></view>
