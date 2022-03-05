@@ -1,0 +1,54 @@
+
+page {
+	background-color: #FAFAFA;
+}
+.his-item {
+	width: 96%;
+	height: 130rpx;
+	margin: 0 auto 10rpx;
+	padding-top: 10rpx;
+	padding-left: 15rpx;
+	background-color: #FFFFFF;	
+	border-radius: 15rpx;
+}
+.trade-no {
+}
+.score-info {
+	height: 60rpx;
+	margin-bottom: 20rpx;
+	display: flex;
+	align-items: center;
+	position: relative;
+}
+.score-type {
+	max-width: 66%;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.shouli {
+	margin-left: 10rpx;
+	display: inline-block;
+	padding: 4rpx;
+	border: 2rpx solid #E32A2A;
+	border-radius: 5rpx;
+	color: #E32A2A;
+}
+.trade-money-icon {
+	position: absolute;
+	right: 40rpx;
+}
+.reduce-price {
+	width: 150rpx;
+	text-align: right;
+	position: absolute;
+	right: 90rpx;
+}
+.dh-time {
+	display: inline-block;
+	padding-left: 10rpx;
+}
+
+
+
+
