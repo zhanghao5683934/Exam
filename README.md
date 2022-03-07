@@ -40,6 +40,42 @@ uni-app官方推荐的轻量级代码IDE工具, Hbuilder[下载地址](http://ww
 1. vue开发, 保证了样式美观的同时, 规避了nvue样式的兼容问题.
 1. 配置方便, 无需安装, 下载之后使用Hbuilder编辑器即可运行查看. 
 
+#### 目录说明
+```           
+├─.hbuiderx        		// colorui插件依赖
+├─.idea              	// 项目相关公共js方法
+│	├─amap-wx.js		// 高德地图依赖js
+│	├─classify.data.js	// 模拟数据
+│	├─geocode-utils.js	// 腾讯地图方法封装
+│	├─projectData.js	// 项目模拟数据
+│	├─qqmap-wx-jssdk.js	// 腾讯地图依赖js
+│	├─request.js		// 数据请求封装
+│	└─uiImg.js			// 模拟数据
+│
+├─components          	// 项目中使用到的功能封装	
+│
+├─pages      			// 页面入口文件夹
+│	├─index				// 首页
+│	├─my				// 个人中心
+│	├─login				// 登录页面
+│	├─notice			// 工作提示
+│	├─ranking			// 排行榜
+│	├─question			// 在线答题
+│	├─answer_history		// 答题记录
+│	├─forget			// 修改密码
+│	└─my_update			// 展示用户信息
+│
+├─static            	// 静态资源
+├─unpackage
+├─util				// 请求接口
+├─App.vue				// vue项目入口文件
+├─main.js				// 公共js
+├─manifest.json			// 基础配置 
+├─pages.json			// 页面路由配置页
+├─project.config.json			// 项目配置文件
+└─uni.scss				// uniapp内置的常用样式变量
+
+```
 
 #### 注意事项
 
