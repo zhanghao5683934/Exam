@@ -42,16 +42,8 @@ uni-app官方推荐的轻量级代码IDE工具, Hbuilder[下载地址](http://ww
 
 #### 目录说明
 ```           
-├─.hbuiderx        		// colorui插件依赖
-├─.idea              	// 项目相关公共js方法
-│	├─amap-wx.js		// 高德地图依赖js
-│	├─classify.data.js	// 模拟数据
-│	├─geocode-utils.js	// 腾讯地图方法封装
-│	├─projectData.js	// 项目模拟数据
-│	├─qqmap-wx-jssdk.js	// 腾讯地图依赖js
-│	├─request.js		// 数据请求封装
-│	└─uiImg.js			// 模拟数据
-│
+├─.hbuiderx        		
+├─.idea              	
 ├─components          	// 项目中使用到的功能封装	
 │
 ├─pages      			// 页面入口文件夹
