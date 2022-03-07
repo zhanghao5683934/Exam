@@ -4,7 +4,7 @@
 <h5 align="center"></h5>
 <div align="center">
 
-[![star](https://gitee.com/howcode/has-chat/badge/star.svg)](https://gitee.com/zh5683934/kaoshi-dati-shuati)  [![fork](https://gitee.com/howcode/has-chat/badge/fork.svg)](https://gitee.com/zh5683934/kaoshi-dati-shuati)  [![](https://img.shields.io/badge/QQ群-995910672-red)](https://qm.qq.com/cgi-bin/qm/qr?k=JShAyXeoKqg2lWFEUSElxELImhjeMG4y&jump_from=webapi)
+ [![](https://img.shields.io/badge/QQ群-995910672-red)](https://qm.qq.com/cgi-bin/qm/qr?k=JShAyXeoKqg2lWFEUSElxELImhjeMG4y&jump_from=webapi)
 
 ------------------------------------------------------------------------
 </div>
