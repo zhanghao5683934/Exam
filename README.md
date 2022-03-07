@@ -52,3 +52,5 @@ uni-app官方推荐的轻量级代码IDE工具, 下载地址:[ https://www.dclou
 ##### 官方QQ技术交流群
 
 QQ群：995910672（万岳科技开源讨论10群）
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0524/181101_c6bda503_2242923.jpeg)
