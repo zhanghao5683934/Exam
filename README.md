@@ -23,7 +23,7 @@
 
 ##### 1. 安装Hbuilder编辑工具
 
-uni-app官方推荐的轻量级代码IDE工具, Hbuilder[下载地址](http://www.dcloud.io/hbuilderx.html](http://www.dcloud.io/hbuilderx.html)，具体安装流程官方网站上写的很详细, 用户可以选择对应您本地系统环境的版本下载.
+uni-app官方推荐的轻量级代码IDE工具, Hbuilder[下载地址](http://www.dcloud.io/hbuilderx.html)，具体安装流程官方网站上写的很详细, 用户可以选择对应您本地系统环境的版本下载.
 
 ##### 2. 导入项目
 克隆下来之后, 打开Hbuilder编辑器. 选择文件, 导入或打开目录即可.
